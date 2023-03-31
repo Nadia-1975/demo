@@ -7,6 +7,10 @@ import json
 from pprint import pprint
 
 
+
+
+
+
 def best_hero(heroes: list):
     result=0
     heroes_dict = {}  # Определяем пустой словарь, где ключи - это имена героев, а значения - их интелект
